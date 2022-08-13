@@ -3,7 +3,7 @@
 - 🔭 &nbsp; [Martti](https://bioinformaticshome.com/tools/tools-main.html)
 - 🌱 &nbsp; [Bioinformatics Software DB](https://bioinformaticshome.com/db/)
 - 💬 &nbsp; [基因组可视化 awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
-- 📫 &nbsp;
+- 📫 &nbsp;[EXPASY](https://www.expasy.org/)
 - 👨‍💻 &nbsp;
 - ⚡ &nbsp;
 
