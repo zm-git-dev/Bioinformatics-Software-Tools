@@ -5,5 +5,5 @@
 - 💬 &nbsp; [基因组可视化 awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true)
 - 📫 &nbsp; [EXPASY](https://www.expasy.org/)
 - 👨‍💻 &nbsp; [Sourcegraph](https://sourcegraph.com/search)
-- ⚡ &nbsp;
+- ⚡ &nbsp; [不同物种或综合性的基因组网站集合awesome-jbrowse ](https://github.com/cmdcolin/awesome-jbrowse)
 
